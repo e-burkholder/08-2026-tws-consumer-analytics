@@ -6,7 +6,9 @@ A data-based analysis of TWS's most recent comeback, analyzing consumer behavior
 - [Objectives](#Objectives)
 - [Background Information](#Background-Information)
     - [TWS](#TWS)
-- [Research Sources](#Research-Sources)
+    - [Album Releases](#Album-Releases)
+- [Data Collection & Cleaning](#Data-Collection--Cleaning)
+- [Sources](#Sources)
 
 ## Objectives
 This project aims to analyze how consumers interact with TWS across streaming platforms, social media, goods/merchandise, and other touchpoints. This project focuses on analyzing data from their most recent album *No Tragedy*.
@@ -22,7 +24,7 @@ I aim to discover:
 
 ## Background Information
 ### TWS
-This project is based off the PLEDIS Entertainment group TWS(투어스), the name being an acronym for "TWENTY FOUR SEVEN WITH US". The group debuted as a 6 member group on January 22, 2024 with the mini album *Sparkling Blue*. [pledis.co.kr - profile](https://www.pledis.co.kr/ko/artist/detail/TWS/profile/)
+This project is based off the PLEDIS Entertainment group TWS(투어스), the name being an acronym for "TWENTY FOUR SEVEN WITH US". The group debuted as a 6 member group on January 22, 2024 with the mini album *Sparkling Blue*. [(pledis.co.kr - profile)](https://www.pledis.co.kr/ko/artist/detail/TWS/profile/)
 The members are:
 - Shinyu (신유)
 - Dohoon (도훈)
@@ -33,7 +35,7 @@ The members are:
 This helps us establish who the group is and the basic information utilized for their branding.
 
 ### Album Releases
-Their music establishes a young, "boyhood pop" feeling to tell their members' stories. Since their 2024 debut, they've released 4 other albums with the most recent release being *No Tragedy* in April 2026. [pledis.co.kr - discography](https://www.pledis.co.kr/ko/artist/detail/TWS/discography/)
+Their music establishes a young, "boyhood pop" feeling to tell their members' stories. Since their 2024 debut, they've released 4 other albums with the most recent release being *No Tragedy* in April 2026. [(pledis.co.kr - discography)](https://www.pledis.co.kr/ko/artist/detail/TWS/discography/)
 Album releases include:
 1. Sparkling Blue (2024)
 2. Summer Beat! (2024)
@@ -42,7 +44,12 @@ Album releases include:
 5. No Tragedy (2026)
 Since this project focuses on analyzing the most recent album, it's important to document the other benchmarks and releases.
 
-## Research Sources
+## Data Collection & Cleaning
+In order to properly utilize the data, it was collected and cleaned to filter out inconsistencies and incomplete entries. The process is explained in the <b>[01_data.ipynb](/notebooks/01_data.ipynb)</b> 
+
+Also refer to the <b>[data_dictionary](/data/data_dictionary.csv)</b> for an explanation of the data sets and variables used to complete the analysis.
+
+## Sources
 Please refer to the following document links for a complete list of the utilized sources.
-(Research Source List)[]
-[Data Source List](/data/data_sources.md)
+- <b>(Research Source List)[]</b>
+- <b>[Data Source List](/data/data_sources.md)</b>
