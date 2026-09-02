@@ -1,1 +1,11 @@
-Variable, Description, Type, Source, Category
+file_name, column_name, label, data_type
+hanteo_data.csv, Album_ID, Album ID, Integer
+hanteo_data.csv, Album_Name, Album Name, String
+hanteo_data.csv, Day_1_Sales, Day 1 Sales, Integer
+hanteo_data.csv, Day_2_Sales, Day 2 Sales, Integer
+hanteo_data.csv, Day_3_Sales, Day 3 Sales, Integer
+hanteo_data.csv, Day_4_Sales, Day 4 Sales, Integer
+hanteo_data.csv, Day_5_Sales, Day 5 Sales, Integer
+hanteo_data.csv, Day_6_Sales, Day 6 Sales, Integer
+hanteo_data.csv, Day_7_Sales, Day 7 Sales, Integer
+hanteo_data.csv, Cumulative_Sales, Cumulative Sales, Integer

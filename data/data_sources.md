@@ -1,6 +1,17 @@
 # Data Sources
 
 ## (Outline Template)
+
+## Hanteo Chart
+Name: Hanteo Chart (albums)
+URL: [Hanteo Chart Homepage](https://hanteochart.com/en)
+Accessed: September 01, 2026
+Data Used:
+    - Album Names
+    - Album Numbers
+    - Chodong Records 
+Notes: n/a
+
 ## Name (Spotify, Youtube, Apple Music, etc)
 - Source: (YT, Spotify, etc)
 - URL:
@@ -16,7 +27,6 @@
     - "name2" MV
     - *etc*
 
-- Hanteo
 - Circle Chart
 - Weverse
 - Instagram
